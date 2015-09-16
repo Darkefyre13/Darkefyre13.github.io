@@ -1,7 +1,23 @@
 html{
-  background: linear-gradient(#745eba, #24152e);
+  background: linear-gradient(#7d4bc6, #2A0530);
+  height: 100%;
 }
-
+h1{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-variant: small-caps;
+  text-align: center;
+}
 body{
-  
+  height: auto;
+}
+h6{
+  background-color: #000000;
+  height:1px;
+  position: relative;
+  bottom: -`10px;
+}
+footer{
+  color:#37343c;
+  font-size: 0.75em;
+  line-height: 1px;
 }
