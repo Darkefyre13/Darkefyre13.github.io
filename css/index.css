@@ -7,6 +7,13 @@ h1{
   font-variant: small-caps;
   text-align: center;
 }
+#nav{
+  text-align: center;
+}
+h2{
+  color: #000000;
+}
+
 body{
   height: auto;
 }
