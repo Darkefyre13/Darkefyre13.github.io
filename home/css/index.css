@@ -10,6 +10,16 @@ h1{
 #nav{
   text-align: center;
 }
+#nav:link{
+  color: black;
+}
+#nav:visited{
+  color: black;
+}
+#nav:hover{
+  color: red;
+}
+
 h2{
   color: #000000;
 }
