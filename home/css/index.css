@@ -1,6 +1,6 @@
 html{
   background: linear-gradient(#7d4bc6, #2A0530);
-  height: auto;
+  height: 300%;
 }
 h1{
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -10,13 +10,16 @@ h1{
 #nav{
   text-align: center;
 }
-#nav:link{
+a{
+  color: black
+}
+a:link{
   color: black;
 }
-#nav:visited{
+a:visited{
   color: black;
 }
-#nav:hover{
+a:hover{
   color: red;
 }
 
