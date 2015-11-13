@@ -1,8 +1,9 @@
 body {
-	text-align: center
+	
 }
 
-body.vert{
+DIV.vert{
+	text-align: center;
 	min-height: 100%;
 	vertical-align: middle;
 	
