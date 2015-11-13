@@ -1,5 +1,9 @@
 body {
-	vertical-align: 50%;
-	
+	text-align: center
+}
+
+body.vert{
+	min-height: 100%;
+	vertical-align: middle;
 	
 }
