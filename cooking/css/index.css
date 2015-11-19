@@ -28,7 +28,7 @@ h2{
 }
 
 body{
-  height: auto;
+  height: 100%;
   
 }
 .center{
@@ -37,7 +37,6 @@ body{
 	border: 2px solid green;
 	padding: 10px;
 	background: linear-gradient(#2A0530, #7d4bc6);
-	height: 100%;
 }
 h6{
   background-color: #000000;
