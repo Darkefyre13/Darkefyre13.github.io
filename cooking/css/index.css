@@ -30,8 +30,9 @@ h2{
 body{
   height: auto;
   background-color: #ffffff;
-  width: 78%;
-  left: 11%;
+}
+.center{
+	width: 78%;
 }
 h6{
   background-color: #000000;
