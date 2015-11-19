@@ -31,6 +31,7 @@ body{
   height: auto;
   background-color: #ffffff;
   width: 77%;
+  float: center;
 }
 h6{
   background-color: #000000;
