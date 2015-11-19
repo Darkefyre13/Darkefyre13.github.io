@@ -29,13 +29,14 @@ h2{
 
 body{
   height: auto;
-  background-color: #ffffff;
+  
 }
 .center{
 	margin: auto;
 	width: 60%;
 	border: 2px solid green;
 	padding: 10px;
+	background-color: #ffffff;
 }
 h6{
   background-color: #000000;
