@@ -27,6 +27,11 @@ h2{
   color: #000000;
 }
 
+body{
+  height: auto;
+  background-color: #ffffff;
+  width: 77%;
+}
 h6{
   background-color: #000000;
   height:1px;
