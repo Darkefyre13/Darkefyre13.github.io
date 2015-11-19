@@ -32,7 +32,10 @@ body{
   background-color: #ffffff;
 }
 .center{
+	margin: auto;
 	width: 50%;
+	border: 2px solid #ffffff;
+	padding: 10px;
 }
 h6{
   background-color: #000000;
