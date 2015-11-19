@@ -1,6 +1,6 @@
 html{
   background: linear-gradient(#7d4bc6, #2A0530);
-  height: 300%;
+  height: 100%;
 }
 h1{
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
@@ -37,6 +37,7 @@ body{
 	border: 2px solid green;
 	padding: 10px;
 	background: linear-gradient(#2A0530, #7d4bc6);
+	height: 100%;
 }
 h6{
   background-color: #000000;
